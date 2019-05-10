@@ -1,6 +1,6 @@
 package dreamschool.cscourse.workshop04;
 
-public class Vehicle {
+public abstract class Vehicle {
 	private String modelName;
 	private int maxSpeed;
 	private int numberLimit;
